@@ -1,0 +1,6 @@
+{
+    "animals": ["elephant", "giraffe", "penguin", "kangaroo", "octopus", "dolphin", "cheetah","duck","monky","roster"],
+    "countries": ["germany", "brazil", "japan", "canada", "egypt", "portugal", "thailand"],
+    "programming": ["python", "function", "variable", "compiler", "algorithm", "recursion", "boolean"],
+    "movies": ["inception", "gladiator", "titanic", "avatar", "interstellar", "jaws", "psycho","lucifer","castle"]
+}
